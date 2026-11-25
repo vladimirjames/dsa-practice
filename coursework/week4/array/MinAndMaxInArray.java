@@ -19,8 +19,8 @@ public class MinAndMaxInArray {
 
         ArrayList<Integer> list = new ArrayList<>();
 
-        int min = Integer.MAX_VALUE;// +
-        int max = Integer.MIN_VALUE;// -
+        int min = Integer.MAX_VALUE;
+        int max = Integer.MIN_VALUE;
 
         for (int i = 0; i < arr.length; i++) {
 
